@@ -23,9 +23,3 @@ This app fetches weather data using the OpenWeatherMap API. Ensure to use a vali
 
 Credits <br>
 This project was inspired by a tutorial on the GreatStack YouTube channel. Special thanks for their excellent guidance and resources!
-
-Contribution <br>
-Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
-
-License <br>
-This project is licensed under the MIT License. See the LICENSE file for details.
